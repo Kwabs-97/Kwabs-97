@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there!!!👋, I'm Samuel Yeboah</h1>
-<h3 align="center">A junior and passionate software engineer from Ghana</h3>
+<h3 align="center">I'm a self-taught web developer</h3>
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" />
 
