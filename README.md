@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **thisissamuelyeboah@gmail.com**
 
-- ⚡ Fun fact **I am a funny introverted guy yet very jovial**
+
 
 
 
