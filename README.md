@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://twitter.com/__kwabs_tweet" target="blank"><img src="https://img.shields.io/twitter/follow/__kwabs_tweet?logo=twitter&style=for-the-badge" alt="__kwabs_tweet" /></a> </p>
 
 - 📫 How to reach me **thisissamuelyeboah@gmail.com**
+- 📫 How to reach me **samuel.yeboah@kudobuzz.com**
 
 
 
